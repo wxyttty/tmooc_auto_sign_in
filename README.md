@@ -75,3 +75,12 @@ pip3 install pyvirtualdisplay
 ## 感谢
 
 @mincho
+
+## 另一种方法
+
+[1771346368/TMOOCAUTOCHECKIN (github.com)](https://github.com/1771346368/TMOOCAUTOCHECKIN)
+
+如果报和ssl加密有关的错误请把src/start.js内的链接中的http改为https,
+
+Windows创建任务计划程序定时打开浏览器访问https://tmooc.cn即可.
+
