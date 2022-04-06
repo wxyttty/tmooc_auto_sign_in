@@ -74,7 +74,7 @@ pip3 install pyvirtualdisplay
 
 ## 感谢
 
-@mincho
+@[super敏 (mincho) - Gitee.com](https://gitee.com/mincho)
 
 ## 另一种方法
 
